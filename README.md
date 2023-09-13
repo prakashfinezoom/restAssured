@@ -13,6 +13,7 @@ Step: 4--Open VS code and create the new file(.babelrc) and give {"presets": ["@
 Step: 5--Create new file(.mocharc.yml) and config babel in mocha and give (require: '@babel/register') inside the file
 
 
+
 Create the js file and start scripting
 
 Libraries installed- SuperTest, Mocha, Chai and babel
